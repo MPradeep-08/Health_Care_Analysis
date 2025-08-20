@@ -15,8 +15,3 @@ This project consists of a healthcare analysis system divided into:
 - **Bed Availability/** — specialized module for bed availability tracking.
 - **FINAL REPORT.pdf** — comprehensive project report.
 - **FINAL VIVA (BATCH 18).pptx** — presentation slides for project defense or demonstration.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MPradeep-08/HEALTH-CARE-ANALYSIS.git
