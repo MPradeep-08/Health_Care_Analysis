@@ -1,15 +1,15 @@
-# HEALTH-CARE-ANALYSIS
-
+# Health Care Analysis
 
 ## Overview
-This project consists of a healthcare analysis system divided into:
-- **Backend** (logic, APIs, data handling)
-- **Frontend** (UI and user-facing interaction)
-- **Bed Availability** (module for tracking available beds)
-  
+A healthcare analysis platform featuring a Python-powered backend, web-based frontend UI, and a specialized module for tracking bed availability. The project is structured into BackEnd, Frontend, and Bed Availability components, and uses HTML, Python, and CSS.
 
-## Structure
-- **BackEnd/** — backend services and data processing logic.
-- **Frontend/** — web interface and client-side components.
-- **Bed Availability/** — specialized module for bed availability tracking.
+## Project Structure
+- **BackEnd/** – Handles backend logic, data processing, and APIs.  
+- **Frontend/** – Contains the web interface for user interaction.  
+- **Bed Availability/** – Module for monitoring and tracking hospital bed availability.  
+
+## Technologies Used
+- Python  
+- HTML  
+- CSS  
 
